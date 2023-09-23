@@ -5,7 +5,6 @@ pub fn app() -> Html {
         <main>
             <img class="logo" src="https://yew.rs/img/logo.png" alt="Yew logo" />
             <h1>{ "Hello Yew with Trunk" }</h1>
-            <span class="subtitle">{ "from Yew with " }<i class="heart" /></span>
         </main>
     }
 }
